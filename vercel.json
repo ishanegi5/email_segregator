@@ -3,11 +3,12 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "e7e9dd27-63b0-43df-85b1-d53316e80bea",
+   "id": "630a9944-4565-4ce6-8bb9-c0ab9ced2e1e",
    "metadata": {},
    "outputs": [],
    "source": [
     "{\n",
+    "  \"version\": 2,\n",
     "  \"builds\": [\n",
     "    {\n",
     "      \"src\": \"app.py\",\n",
